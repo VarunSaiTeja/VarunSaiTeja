@@ -22,11 +22,9 @@ You can find me on [![LinkedIn][1.2]][1].
 
 
 
-- 🔭 I’m currently working on File Hub, Graph.ArgumentValdiator
-- 🌱 I’m currently learning GraphQL
-- 👯 I’m looking to collaborate on GraphQL, Dapper
-- 🤔 I’m looking for help with Xamarin
-- 💬 Ask me about WPF, GraphQL, Dapper, C#
-- 📫 How to reach me: 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on File Hub, Zadinga.
+- 🌱 I’m currently learning Blazor.
+- 👯 I’m looking to collaborate on Blazor
+- 🤔 I’m looking for help with MAUI & Blazor
+- 💬 Ask me about Dapper, Linq2DB, C#, ASP Core, Web APIs
+- 📫 How to reach me: https://bit.ly/35Rwchk
