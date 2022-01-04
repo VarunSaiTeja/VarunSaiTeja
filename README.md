@@ -34,6 +34,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=varunsaiteja&show_icons=true&locale=en&layout=compact" alt="varunsaiteja" /></p>
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=VarunSaiTeja&bg_color=fff&hide_border=true" width="100%"/>
   <img src="https://github-profile-trophy.vercel.app/?username=VarunSaiTeja&theme=flat&column=7&margin-w=10" alt="logo" height="160" />
 </p>
