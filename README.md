@@ -22,9 +22,9 @@ You can find me on [![LinkedIn][1.2]][1].
 
 
 
-- 🔭 I’m currently working on File Hub, Zadinga.
-- 🌱 I’m currently learning Blazor.
-- 👯 I’m looking to collaborate on Blazor
-- 🤔 I’m looking for help with MAUI & Blazor
-- 💬 Ask me about Dapper, Linq2DB, C#, ASP Core, Web APIs
+- 🔭 I’m currently working on FirestoreLINQ, Telegram File Manager.
+- 🌱 I’m currently learning C# Expressions.
+- 👯 I’m looking to collaborate on Firestore + DotNET.
+- 🤔 I’m looking for help with C# Expressions.
+- 💬 Ask me about C#, ASP Core, Angular, DB Design, Web APIs
 - 📫 How to reach me: https://bit.ly/35Rwchk
